@@ -6,7 +6,7 @@
 | 2 	| Datacamp: Into to Git (Chap2&4&5)  	|   Certificate achieved |
 | 3  	| Datacamp: Image Processing with Keras in Python (Chap1)	|   	|
 | 4  	| Datacamp: Introduction to Deep Learning with Keras (Chap1)  	|   	|
-| 5  	| Tutorial: Setup and config second account in git  	|   https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e	|
+| 5  	| Tutorial: Setup and config second git account at the same machine  	|   https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e	|
 | 6  	|   	|   	|
 | 7  	|   	|   	|
 | 8  	|   	|   	|
