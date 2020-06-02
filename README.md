@@ -1,4 +1,4 @@
-## Plan for #100daysofcode
+## Plan for 100 Days of Code
 
 |Day  	|Topic   	| Achievement/Resource 	|
 |---	|---	|---	|
